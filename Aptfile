@@ -1,0 +1,8 @@
+# you can list packages
+libpq-dev
+
+# or include links to specific .deb files
+http://ftp.us.debian.org/debian/pool/main/p/python3.11/python3.11_3.11.6-3_amd64.deb
+
+# or add custom apt repos (only required if using packages outside of the standard Ubuntu APT repositories)
+:repo:deb http://ftp.de.debian.org/debian artful main universe
