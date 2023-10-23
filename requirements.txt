@@ -10,12 +10,10 @@ asyncio
 cloudscraper
 dnspython
 feedparser
-flask
 gevent
 google-api-python-client
 google-auth-httplib2
 google-auth-oauthlib
-gunicorn
 git+https://github.com/zevtyardt/lk21.git
 httpx
 lxml
